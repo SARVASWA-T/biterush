@@ -1,6 +1,6 @@
 # BiteRush - Complete Food Delivery Platform
 
-Tomato is a robust, multi-tenant food delivery application that links hungry customers, local restaurants, and delivery drivers using real-time sync and dynamic route management. The platform features strict data isolation, role-based access control, and specialized dashboards to ensure a seamless experience for all parties involved exactly when they need it.
+BiteRush is a robust, multi-tenant food delivery application that links hungry customers, local restaurants, and delivery drivers using real-time sync and dynamic route management. The platform features strict data isolation, role-based access control, and specialized dashboards to ensure a seamless experience for all parties involved exactly when they need it.
 
 ## 🚀 Key Features
 
